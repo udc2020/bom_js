@@ -1,0 +1,41 @@
+window:
+    innerHeight
+    innerWidth
+    open
+    close
+    resizeTo
+
+screen:
+    width
+    height
+    availWidth
+    availheight
+    colorDepth
+
+window.location:
+    href
+    hostname
+    pathname
+    protocol
+    assign
+
+window.history:
+    back
+    forward
+
+navigator:
+    cookeiEnabled
+    appName
+    appCodeName
+    product
+    appVersion
+    useragent
+    palatform
+    language
+    online
+
+window.setTimeOut(fuc,milliseconds)
+window.setInterval(fuc,milliseconds)
+
+ new date()
+ toLocaleTimeString
